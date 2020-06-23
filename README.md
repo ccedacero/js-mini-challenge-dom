@@ -18,11 +18,11 @@ And `div.players-container` looks like this (note the CSS class selector syntax)
 </div>
 ```
 
-## Deliverable 1
+<!-- ## Deliverable 1
 
 Open the `index.html` file in your browser and check the console in Chrome Dev Tools. You'll notice the console.log from line 2 of the `index.js` file is returning `null` instead of showing the `h1#header` element.
 
-Figure out what you need to change to give Javascript access to the `h1#header` element.
+Figure out what you need to change to give Javascript access to the `h1#header` element. -->
 
 **YOUR NOTES**
 ```
@@ -31,13 +31,13 @@ Figure out what you need to change to give Javascript access to the `h1#header` 
 
 ## Deliverable 2
 
-Now that you have access to the `h1#header` element, use Javascript to change the element's font color to red (of course).
+<!-- Now that you have access to the `h1#header` element, use Javascript to change the element's font color to red (of course). -->
 
 **YOUR NOTES**
 ```
 
 ```
-
+<!-- 
 ## Deliverable 3
 
 Now that we've got a beautiful red header, we can show some players on the page. The player data is stored in a variable called `PLAYERS` in the `data.js` file - you can still access that variable in your `index.js` file (see if you can figure out why!).
@@ -52,7 +52,7 @@ Create a DOM element that looks like this for each player and append it to the `
     {player name} (<em>{player nickname}</em>)
   </h3>
   <img src="{player image}" alt="{player name}">
-</div>
+</div> -->
 ```
 
 **YOUR NOTES**
